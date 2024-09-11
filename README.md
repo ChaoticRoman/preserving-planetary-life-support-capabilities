@@ -66,5 +66,7 @@ We have no time to build nuclear, we have to act fast.
 
 #### Massive renewables, distributed storage, smart grid
 
-**TODO**
+**TODO**: Get, read and summarize here the article
+[Clean energy’s next trillion-dollar business](https://www.economist.com/business/2024/09/01/clean-energys-next-trillion-dollar-business)
+from Economist.com.
 
